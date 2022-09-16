@@ -10,6 +10,7 @@ data/
 *.csv
 *.xlsx
 *.png
+*.pth
 
 # C extensions
 *.so
